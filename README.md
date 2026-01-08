@@ -1,4 +1,4 @@
-## Hi there 👋
+![gitartwork](gitartwork.svg)## Hi there 👋
 
 <!--
 **AkshitShah96/Akshitshah96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
