@@ -1,2 +1,2 @@
-Hi
+
 ![gitartwork](gitartwork.svg)
